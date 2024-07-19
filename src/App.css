@@ -1,0 +1,40 @@
+.tw-seguir {
+    display: flex;
+    align-items: center;
+    color:#fff;
+    justify-content: space-between;
+ 
+}
+.tw-seguir-header {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.tw-seguir-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 1000px;
+}
+.tw-seguir-info {
+    display: flex;
+    flex-direction: column;
+}
+.tw-seguir-infoUserName {
+    opacity: .6;
+}
+.tw-seguir-boton{
+    margin-left: 16px;
+    border: 0;
+    border-radius: 10px;
+    padding: 6px 16px;
+    font-weight: bold;
+}
+aside {
+    display: flex;
+    align-items: center;
+}
+.div-app{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
